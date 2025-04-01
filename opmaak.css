@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:wght@300;900&display=swap');
+h1 {
+    font-family: 'Winky Sans', sans-serif;
+    font-size: 30px;
+    position: absolute; 
+    top: 10%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+}
+h1 {
+    font-family: 'Winky Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    margin: 40px 0 20px 0;
+  }
+  
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th:hover {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    font-family: 'Winky Sans', sans-serif;
+    font-weight: 900;
+    background-color: aquamarine;
+  }
+  th a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
